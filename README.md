@@ -1,0 +1,4 @@
+yo-angular
+==========
+
+Bootstrap AngularJS
